@@ -109,3 +109,4 @@ scikit-learn
 xgboost
 ta
 psycopg2-binary
+psycopg2
